@@ -5,11 +5,11 @@ Exemplos de utilização do Mockito em projetos Java
 - https://www.dio.me/articles/mockito-como-utilizar-de-maneira-simples
 
 
-@Mock
-@InjectMocks
-@Captor
-@Test
-@Spy
+- @Mock
+- @InjectMocks
+- @Captor
+- @Test
+- @Spy
 
 
 - mockito core
