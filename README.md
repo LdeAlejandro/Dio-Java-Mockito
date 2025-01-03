@@ -12,8 +12,8 @@ Exemplos de utilização do Mockito em projetos Java
 @Spy
 
 
-mockito core
-mockito inline (para metodos estaticos e  variables finals)
+- mockito core
+- mockito inline (para metodos estaticos e  variables finals)
 
 #### **@Mock**
 - Cria um mock para uma classe ou interface.
